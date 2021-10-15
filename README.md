@@ -1,7 +1,7 @@
 Dutch Translation Pack for ExpressionEngine 6.x
 ================================================
-
-[![Build Status](https://travis-ci.org/EllisLab/EE-Language-German.svg?branch=master)](https://travis-ci.org/EllisLab/EE-Language-German/branches)
+<!-- 
+[![Build Status](https://   -ci.org/EllisLab/EE-Language-German.svg?branch=master)](https://travis-ci.org/EllisLab/EE-Language-German/branches) -->
 
 - Copyright (C) 2003-2020 Packet Tide, LLC
 - Original German translation provided by: Werner Gusset (gusset@octave2.ch)
