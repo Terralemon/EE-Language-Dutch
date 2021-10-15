@@ -1,4 +1,4 @@
-German Translation Pack for ExpressionEngine 5.x
+Dutch Translation Pack for ExpressionEngine 6.x
 ================================================
 
 [![Build Status](https://travis-ci.org/EllisLab/EE-Language-German.svg?branch=master)](https://travis-ci.org/EllisLab/EE-Language-German/branches)
